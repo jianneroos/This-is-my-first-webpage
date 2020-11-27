@@ -22,3 +22,10 @@ strong {
     font-style: italic;
     text-transform: uppercase;
 }
+
+p {
+    letter-spacing: 0.5em;
+    word-spacing: 2em;
+    line-height: 1.5;
+    text-align: center;
+}
